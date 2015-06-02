@@ -8,10 +8,13 @@ Soon
 ## Talk Outline
 See the [image credits](credits.md), link to [slides-soon](), and [video-soon]()
 
-The talk is broken down in x sessions:
-* Session one
+The talk is broken down in 3 sessions:
+* Myths and Rituals
+* Hitting the books
+* Conclusions
 
 # References
+* [Brendan Gregg - Velocity 2015 linux perf tools](http://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools)
 
 # Thank You
-Thank you to everyone who helped with feedback/resources and advice for this talk. Special thanks to:
+Thank you to everyone who helped with feedback/resources and advice for this talk. Special thanks to: Caitie McCaffrey, Devon O'Dell, Mike O’Neill, and Greg Bako.
