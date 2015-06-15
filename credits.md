@@ -7,6 +7,8 @@
 * https://www.flickr.com/photos/112068942@N04/16732749473
 * https://www.flickr.com/photos/fun3/2192496525/
 * https://www.flickr.com/photos/103140607@N06/10334624835/
+* https://www.flickr.com/photos/pug/803880984/
+* https://www.flickr.com/photos/antoinetteandmike/15091614138
 
 Emojis from
 * http://getemoji.com/
