@@ -3,7 +3,7 @@
 Accompanying repository for the "Zero to Capacity Planning" talk given at [Monitorama 2015](http://monitorama.com/#schedule). Feel free to open any issues for questions and/or to say hi :)
 
 ## Talk Outline
-See the [image credits](credits.md), link to [slides](https://speakerdeck.com/randommood/zero-to-capacity-planning), and [video-soon]()
+See the [image credits](credits.md), link to [slides](https://speakerdeck.com/randommood/zero-to-capacity-planning), and [video](https://vimeo.com/131377938)
 
 The talk is broken down in 3 sections:
 * Defining zero
