@@ -20,7 +20,6 @@ The talk is broken down in 3 sections:
 * http://www.computerworld.com/article/2516998/data-center/how-to-develop-an-effective-capacity-planning-process.html
 * http://highscalability.com/blog/2013/12/18/how-to-get-started-with-sizing-and-capacity-planning-assumin.html
 * http://highscalability.com/blog/2008/9/8/guerrilla-capacity-planning-and-the-law-of-universal-scalabi.html
-* http://blogs.atlassian.com/2013/12/agile-capacity-planning/
 * http://docs.basho.com/riak/latest/ops/building/planning/best-practices/
 * https://www.igvita.com/2015/01/26/resilient-networking/
 * [Little's law](https://en.wikipedia.org/wiki/Little's_law)
