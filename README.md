@@ -1,15 +1,17 @@
 # Zero to Capacity Planning
 
-Accompanying repository for the "Zero to Capacity Planning" talk given at [Monitorama 2015](http://monitorama.com/#schedule). Feel free to open any issues for questions and/or to say hi :)
+Accompanying repository for the "Zero to Capacity Planning". Feel free to open any issues for questions and/or to say hi :)
 
 ## Talk Outline
-See the [image credits](credits.md), link to [slides](https://speakerdeck.com/randommood/zero-to-capacity-planning), and [video](https://vimeo.com/131377938)
-
-The talk is broken down in 3 sections:
+See the [image credits](credits.md) link to The talk is broken down in 3 sections:
 * Defining zero
 * Hitting the Books
 * Rituals and Myths
 * Findings / Parting thoughts
+
+### Versions of this talk
+* [Monitorama 2015](http://monitorama.com/#schedule) - [slides](https://speakerdeck.com/randommood/zero-to-capacity-planning) & [video](https://vimeo.com/131377938)
+* [Infra Lightning Talks & Pie](https://stripe.com/events/lightning-talks-and-pie-dec2016) - [slides](https://speakerdeck.com/randommood/zero-to-capacity-planning-there-and-back-again)
 
 # References
 * [Brendan Gregg - Velocity 2015 linux perf tools](http://www.slideshare.net/brendangregg/velocity-2015-linux-perf-tools)
